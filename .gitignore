@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.log
+*.iqtree
+*.bionj
+*.mldist
+*.ckp.gz
+*.splits.nex
+*.uniqueseq.phy
+*.model.gz
